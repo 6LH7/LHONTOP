@@ -1,6 +1,6 @@
-LH V2.3: Precision. Dominance. Unmatched.
+LH V2.4: Precision. Dominance. Unmatched.
 
-Legit Hub (LH) V2.3 is not a tool; it’s an evolution. We’ve eliminated the noise to deliver a surgical advantage that redefines the game. If you’re seeking average, look elsewhere. If you’re seeking absolute control, you’ve arrived.
+Legit Hub (LH) V2.4 is not a tool; it’s an evolution. We’ve eliminated the noise to deliver a surgical advantage that redefines the game. If you’re seeking average, look elsewhere. If you’re seeking absolute control, you’ve arrived.
 
 THE LOADOUT: THE ARSENAL OF DOMINANCE
 ESP REBORN: We’ve stripped the clutter. What remains is high-fidelity, clinical intelligence. See every move, anticipate every play, and remain invisible. Simple, lethal, and effective.
@@ -31,4 +31,4 @@ Stop playing fair. Start winning.
 Watch the Showcase
 [https://www.youtube.com/watch?v=09QpNQ5hfo0]
 
-Current Version: V2.3
+Current Version: V2.4
